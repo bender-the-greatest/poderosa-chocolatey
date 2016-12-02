@@ -10,13 +10,12 @@
     <projectUrl>https://www.poderosa-terminal.com/</projectUrl>
     <iconUrl>https://www.poderosa-terminal.com/wp-content/uploads/2016/07/poderosa_logo.png</iconUrl>
     <copyright>Lagarto Technology &#169;2016</copyright>
-    <licenseUrl>https://github.com/poderosaproject/poderosa/blob/master/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://www.poderosa-terminal.com/license/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/poderosaproject/poderosa</projectSourceUrl>
     <docsUrl>https://www.poderosa-terminal.com/manuallist/</docsUrl>
-    <bugTrackerUrl>https://github.com/poderosaproject/poderosa/issues</bugTrackerUrl>
-    <tags>poderosa terminal ssh remote shell lagarto</tags>
+    <tags>poderosa terminal ssh remote shell lagarto admin</tags>
     <summary>SSH Client for Windows</summary>
+    <releaseNotes>https://www.poderosa-terminal.com/versionhistory/</releaseNotes>
     <description>In 2005, adoption of MITOU project (Japanese government choose ambitious project from the public). But after ten years from then, in 2016, it realized complete renewal, major version became 5. Although Poderosa is not open source but proprietary software, you can indefinitely use it as free trial.
     
 Shell is old but superior interface for talk between engineers and computers, if aim to charm engineers by shell is thought, it's never a withering field. Although it's not easy to establish all of easy using, rich functions, stylish UI, support of various OS and platform, new Poderosa is aiming for world number one shell operation environment.
