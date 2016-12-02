@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>poderosa-terminal-net40</id>
+    <version>5.0</version>
+    <packageSourceUrl>https://github.com/metalseargolid/poderosa-chocolatey</packageSourceUrl>
+    <owners>Alexander Alber</owners>
+    <title>poderosa-terminal-net40 (Install)</title>
+    <authors>Lagarto Technology</authors>
+    <projectUrl>https://www.poderosa-terminal.com/</projectUrl>
+    <iconUrl>https://www.poderosa-terminal.com/wp-content/uploads/2016/07/poderosa_logo.png</iconUrl>
+    <copyright>Lagarto Technology &#169;2016</copyright>
+    <licenseUrl>https://github.com/poderosaproject/poderosa/blob/master/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/poderosaproject/poderosa</projectSourceUrl>
+    <docsUrl>https://www.poderosa-terminal.com/manuallist/</docsUrl>
+    <bugTrackerUrl>https://github.com/poderosaproject/poderosa/issues</bugTrackerUrl>
+    <tags>poderosa terminal ssh remote shell lagarto</tags>
+    <summary>SSH Client for Windows</summary>
+    <description>In 2005, adoption of MITOU project (Japanese government choose ambitious project from the public). But after ten years from then, in 2016, it realized complete renewal, major version became 5. Although Poderosa is not open source but proprietary software, you can indefinitely use it as free trial.
+    
+Shell is old but superior interface for talk between engineers and computers, if aim to charm engineers by shell is thought, it's never a withering field. Although it's not easy to establish all of easy using, rich functions, stylish UI, support of various OS and platform, new Poderosa is aiming for world number one shell operation environment.
+
+We are sure that era in which cloud and IoT explosively develop continues so long. Engineers who construct and maintain various systems which use them should use shell via SSH. We provide engineers who love CUI splendid tool for it.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
