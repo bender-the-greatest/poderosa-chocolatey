@@ -1,7 +1,7 @@
 poderosa-chocolatey
 ===================
 
-Chocolatey package source for Poderosa Terminal.
+Chocolatey package source for [Poderosa Terminal](https://www.poderosa-terminal.com/).
 
 # Building and Instaling the Packages from Source
 
