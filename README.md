@@ -3,6 +3,13 @@ poderosa-chocolatey
 
 Chocolatey package source for [Poderosa Terminal](https://www.poderosa-terminal.com/).
 
+# Installing from Chocolatey
+For .NET 3.5
+`choco install poderosa-terminal-net35`
+
+For .NET 4.0
+`choco install poderosa-terminal-net40`
+
 # Building and Instaling the Packages from Source
 
 First, remember to clone the source.
